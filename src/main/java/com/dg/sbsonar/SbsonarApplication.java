@@ -8,6 +8,7 @@ public class SbsonarApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SbsonarApplication.class, args);
+		System.out.println("Main Class");
 	}
 
 }
